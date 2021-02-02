@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\07-OverrideModVirtualNew\stuff\OverrideModVirtualNew\bin\Debug\OverrideModVirtualNew.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\07-OverrideModVirtualNew\stuff\OverrideModVirtualNew\bin\Debug\OverrideModVirtualNew.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\07-OverrideModVirtualNew\stuff\OverrideModVirtualNew\bin\Debug\OverrideModVirtualNew.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\07-OverrideModVirtualNew\stuff\OverrideModVirtualNew\obj\Debug\OverrideModVirtualNew.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\07-OverrideModVirtualNew\stuff\OverrideModVirtualNew\obj\Debug\OverrideModVirtualNew.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\07-OverrideModVirtualNew\stuff\OverrideModVirtualNew\obj\Debug\OverrideModVirtualNew.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\07-OverrideModVirtualNew\stuff\OverrideModVirtualNew\obj\Debug\OverrideModVirtualNew.pdb
